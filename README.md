@@ -23,3 +23,4 @@ We utilized Pandas for more efficient dataframe management and manipulation. The
 ## Future Goals ##
 - Examine other socioecomomic features for possible statistical significance
 - Attempt to locate missing data 
+- Perform a similar analysis for US state data, if available
